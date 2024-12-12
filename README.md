@@ -1,4 +1,4 @@
-# 👋 Merhaba, Ben [Adınız]!
+# 👋 Merhaba, Ben Emre
 
 **Bilgisayar Mühendisliği Öğrencisi | Geliştirici**
 
