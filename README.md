@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Merhaba, Ben [Adınız]!
 
-<!--
-**EmreYnlk/EmreYnlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bilgisayar Mühendisliği Öğrencisi | Geliştirici**
 
-Here are some ideas to get you started:
+- 🎓 **Bilgisayar Mühendisliği** öğrencisiyim.
+- 
+- 🌱 Şu anda üzerinde çalışıyorum:  
+  - **Python projeleri**  
+  - **Makine öğrenmesi eğitimleri**
+  - 
+- ⚙️ Kullandığım diller ve araçlar:  
+  - **C++**, **Java**, **Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 İlgi Alanlarım
+
+- 🧠 **Yapay Zeka ve Makine Öğrenmesi**  
+- 🌐 **Uygulama Geliştirme**  
