@@ -6,7 +6,7 @@
 - 
 - 🌱 Şu anda üzerinde çalışıyorum:  
   - **Python projeleri**  
-  - **Makine öğrenmesi eğitimleri**
+  - **Makine öğrenmesi**
   - 
 - ⚙️ Kullandığım diller ve araçlar:  
   - **C++**, **Java**, **Python**
