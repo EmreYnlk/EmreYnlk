@@ -1,6 +1,6 @@
 # 👋 Merhaba, Ben Emre
 
-**Bilgisayar Mühendisliği Öğrencisi | Geliştirici**
+**Bilgisayar Mühendisliği Öğrencisi**
 
 - 🎓 **Bilgisayar Mühendisliği** öğrencisiyim.
 - 
